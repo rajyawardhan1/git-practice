@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.rajyawardhan.sp</groupId>
 	<artifactId>git-practice</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>git-practice</name>
 	<description>Practice Project for git related concepts</description>
 
