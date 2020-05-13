@@ -19,9 +19,7 @@
 	</properties>
 
 		<scm>
-			<connection>scm:git:git@github.com:rajyawardhan1/git-practice.git</connection>
-			<developerConnection>scm:git:git@github.com:rajyawardhan1/git-practice.git</developerConnection>
-			<url>scm:git:git@github.com/rajyawardhan1:git-practice.git</url>
+			<developerConnection>scm:git:https://github.com/rajyawardhan1/git-practice.git</developerConnection>
 		</scm>
 
 	<dependencies>
