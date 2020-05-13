@@ -33,3 +33,7 @@ build/
 ### Document DB ###
 DocumentDB.Spatial.Sql.dll
 Microsoft.Azure.Documents.ServiceInterop.dll
+
+### Maven Release Plugin ###
+pom.xml.releaseBackup
+release.properties
