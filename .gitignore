@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Document DB ###
+DocumentDB.Spatial.Sql.dll
+Microsoft.Azure.Documents.ServiceInterop.dll
