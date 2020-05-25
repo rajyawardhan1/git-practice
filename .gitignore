@@ -37,3 +37,5 @@ Microsoft.Azure.Documents.ServiceInterop.dll
 ### Maven Release Plugin ###
 pom.xml.releaseBackup
 release.properties
+pom.xml.releaseBackup
+release.properties
