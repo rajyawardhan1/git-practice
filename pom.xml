@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.rajyawardhan.sp</groupId>
     <artifactId>git-practice</artifactId>
-    <version>1.6</version>
+    <version>1.6-SNAPSHOT</version>
     <name>git-practice</name>
     <description>Practice Project for git related concepts</description>
 
@@ -19,7 +19,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/rajyawardhan1/git-practice.git</developerConnection>
-        <tag>git-practice1.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
