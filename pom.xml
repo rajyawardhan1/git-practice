@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.rajyawardhan.sp</groupId>
     <artifactId>git-practice</artifactId>
-    <version>hooha_1.9.1</version>
+    <version>hooha_1.9.3</version>
     <name>git-practice</name>
     <description>Practice Project for git related concepts</description>
 
