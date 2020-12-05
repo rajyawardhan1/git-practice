@@ -10,6 +10,7 @@ public class GitPracticeApplication {
 		System.out.println("Application will Start");
 		System.out.println("Waiting...");
 		SpringApplication.run(GitPracticeApplication.class, args);
+		System.out.println("Wait Over");
 		System.out.println("Application has Started");
 	}
 
