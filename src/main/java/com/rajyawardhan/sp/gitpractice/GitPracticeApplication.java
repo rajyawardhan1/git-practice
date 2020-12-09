@@ -8,7 +8,6 @@ public class GitPracticeApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Application will Start");
-		System.out.println("Waiting...");
 		SpringApplication.run(GitPracticeApplication.class, args);
 		System.out.println("Application has Started");
 	}
